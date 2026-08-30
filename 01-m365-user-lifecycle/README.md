@@ -28,7 +28,7 @@ All employee identities shown in this project are fictional and were created spe
 |---|---|
 | Platform | Microsoft 365 Business Premium |
 | Custom domain | `iterium.uk` |
-| Original tenant domain | `iteriumlab.onmicrosoft.com` |
+| Original tenant domain | `Microsoft-provided onmicrosoft.com domain` |
 | Business Premium licences | 25 |
 | Assigned licences | 1 |
 | Available licences | 24 |
