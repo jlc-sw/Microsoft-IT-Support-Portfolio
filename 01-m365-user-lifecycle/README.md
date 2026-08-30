@@ -1,8 +1,8 @@
-# Microsoft IT Support Portfolio
+﻿# Microsoft IT Support Portfolio
 
 Hands-on IT support portfolio documenting practical administration, troubleshooting, incident handling, and technical support exercises across Microsoft technologies.
 
-## Case Studies
+### Case Studies
 
 ### Microsoft 365 User Lifecycle & Licensing
 
